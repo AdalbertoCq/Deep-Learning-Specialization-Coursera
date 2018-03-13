@@ -47,8 +47,11 @@ Codes:
 * Week2: 
   * [Keras CNN Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week2/Keras%20tutorial)
   * [ResNet Keras Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week2/ResNet)
+  * [Paper: Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 * Week3: 
   * [YOLO Implementation(You Only Look Once)](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week3)
+  * [Paper: You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+  * [Paper: YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)
 * Week4: 
   * [Neural Style Transfer](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week4/Art%20Neural%20Transfer)
   * [Face Recognition](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week4/Face%20Recognition)
