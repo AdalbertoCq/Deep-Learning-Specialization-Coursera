@@ -45,12 +45,12 @@ Codes:
 Codes:
 * Week1: [Convolutional Neural Network Implementation in Numpy](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week1)
 * Week2: 
-** [Keras CNN Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week2/Keras%20tutorial)
-** [ResNet Keras Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week2/ResNet)
+  * [Keras CNN Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week2/Keras%20tutorial)
+  * [ResNet Keras Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week2/ResNet)
 * Week3: [YOLO Implementation(You Only Look Once)](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week3)
 * Week4: 
-** [Neural Style Transfer](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week4/Art%20Neural%20Transfer)
-** [Face Recognition](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week4/Face%20Recognition)
+  * [Neural Style Transfer](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week4/Art%20Neural%20Transfer)
+  * [Face Recognition](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week4/Face%20Recognition)
 
 ## Course 5. [Sequential Models](https://www.coursera.org/learn/nlp-sequence-models) 
 * Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
@@ -60,12 +60,12 @@ Codes:
 
 Codes:
 * Week1: 
-** [RNN & LSTM Implementation in Numpy (Including backpropagation)](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week1/Building%20a%20RNN)
-** [Character-Level Language Modeling](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week1/Character-level%20language%20model)
-** [Sequence Sampling Generation LSTM](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week1/LSTM%20Network)
+  * [RNN & LSTM Implementation in Numpy (Including backpropagation)](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week1/Building%20a%20RNN)
+  * [Character-Level Language Modeling](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week1/Character-level%20language%20model)
+  * [Sequence Sampling Generation LSTM](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week1/LSTM%20Network)
 * Week2: 
-** [Natural Language Processing & Word Embeddings](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week2/Emojyfier)
-** [Operations on word vectors - Debiasing](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week2/Operation%20on%20word%20vectors)
+  * [Natural Language Processing & Word Embeddings](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week2/Emojyfier)
+  * [Operations on word vectors - Debiasing](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week2/Operation%20on%20word%20vectors)
 * Week3: 
-** [Neural Machine Translation with Attention](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week3/Neural%20machine%20translation%20with%20attention)
-** [Trigger word detection](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week3/Trigger%20word%20detection)
+  * [Neural Machine Translation with Attention](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week3/Neural%20machine%20translation%20with%20attention)
+  * [Trigger word detection](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week3/Trigger%20word%20detection)
