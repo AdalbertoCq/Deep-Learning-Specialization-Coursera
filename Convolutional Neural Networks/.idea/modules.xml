@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Improving Deep Neural Networks/.idea/Improving Deep Neural Networks.iml" filepath="$PROJECT_DIR$/../Improving Deep Neural Networks/.idea/Improving Deep Neural Networks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Neural Network Python/.idea/Neural Network Python.iml" filepath="$PROJECT_DIR$/../Neural Network Python/.idea/Neural Network Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Neural Network Tensorflow/.idea/Neural Network Tensorflow.iml" filepath="$PROJECT_DIR$/../Neural Network Tensorflow/.idea/Neural Network Tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Neural Networks and Deep Learning/.idea/Neural Networks and Deep Learning.iml" filepath="$PROJECT_DIR$/../Neural Networks and Deep Learning/.idea/Neural Networks and Deep Learning.iml" />
+    </modules>
+  </component>
+</project>

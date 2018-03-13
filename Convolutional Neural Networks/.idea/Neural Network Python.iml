@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Own" />
+    <orderEntry type="module" module-name="Improving Deep Neural Networks" />
+    <orderEntry type="module" module-name="Neural Networks and Deep Learning" />
+    <orderEntry type="module" module-name="Neural Network Tensorflow" />
+    <orderEntry type="module" module-name="Own" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
