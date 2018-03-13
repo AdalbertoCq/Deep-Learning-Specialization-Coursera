@@ -54,7 +54,10 @@ Codes:
   * [Paper: YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)
 * Week4: 
   * [Neural Style Transfer](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week4/Art%20Neural%20Transfer)
+  * [Paper: A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
   * [Face Recognition](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week4/Face%20Recognition)
+  * [Paper: FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832)
+  * [Paper: Going deeper with convolutions (Inception Networks)](https://arxiv.org/abs/1409.4842)
 
 ## Course 5. [Sequential Models](https://www.coursera.org/learn/nlp-sequence-models) 
 * Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs. 
