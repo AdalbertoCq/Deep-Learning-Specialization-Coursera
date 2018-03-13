@@ -53,7 +53,6 @@ Codes:
   * [Face Recognition](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week4/Face%20Recognition)
 
 ## Course 5. [Sequential Models](https://www.coursera.org/learn/nlp-sequence-models) 
-* Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
 * Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs. 
 * Be able to apply sequence models to natural language problems, including text synthesis. 
 * Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
