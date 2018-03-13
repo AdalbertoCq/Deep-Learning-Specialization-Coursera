@@ -28,7 +28,7 @@ Codes:
 Codes:
 * Week1: [Initialization, Regularization & Gradient Check](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Improving%20Deep%20Neural%20Networks/week1)
 * Week2: [Optimization Algorithms](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Improving%20Deep%20Neural%20Networks/week2)
-* Week3: [Tensorflow Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Improving%20Deep%20Neural%20Networks/week3)
+* Week3: [Hyperparameter tuning, Batch Normalization & Tensorflow Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Improving%20Deep%20Neural%20Networks/week3)
 
 ## Course 3. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) 
 - Understand how to diagnose errors in a machine learning system, and 
