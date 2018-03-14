@@ -17,7 +17,8 @@ Codes:
 * Week2: [Neural Network Basics](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Neural%20Networks%20and%20Deep%20Learning/week2)
 * Week3: [Shallow Neural Network Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Neural%20Networks%20and%20Deep%20Learning/week3)
 * Week4: [Deep Neural Network Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Neural%20Networks%20and%20Deep%20Learning/week4)
-
+  * Mathematical demonstration: [Backpropagation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/backprop.PDF)
+  
 ## Course 2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) 
 * Understand industry best-practices for building deep learning applications. 
 * Be able to effectively use the common neural network "tricks", including initialization, L2 and dropout regularization, Batch normalization, gradient checking, 
