@@ -31,6 +31,7 @@ Codes:
 * Week2: [Optimization Algorithms](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Improving%20Deep%20Neural%20Networks/week2)
 * Week3: [Hyperparameter tuning, Batch Normalization & Tensorflow Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Improving%20Deep%20Neural%20Networks/week3)
   * Mathematical demostration: [Batch Normalization Gradient](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks/batch_norm_backprop.PDF)
+  * Paper: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
 
 ## Course 3. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) 
 - Understand how to diagnose errors in a machine learning system, and 
@@ -49,7 +50,7 @@ Codes:
 * Week2: 
   * [Keras CNN Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week2/Keras%20tutorial)
   * [ResNet Keras Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week2/ResNet)
-  * [Paper: Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+  * Paper: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 * Week3: 
   * [YOLO Implementation(You Only Look Once)](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week3)
   * Paper: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
