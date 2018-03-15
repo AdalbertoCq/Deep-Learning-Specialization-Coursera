@@ -17,7 +17,7 @@ Codes:
 * Week2: [Neural Network Basics](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Neural%20Networks%20and%20Deep%20Learning/week2)
 * Week3: [Shallow Neural Network Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Neural%20Networks%20and%20Deep%20Learning/week3)
 * Week4: [Deep Neural Network Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Neural%20Networks%20and%20Deep%20Learning/week4)
-  * Mathematical demonstration: [Backpropagation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/backprop.PDF)
+  * Mathematical demostration: [Backpropagation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/backprop.PDF)
   
 ## Course 2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) 
 * Understand industry best-practices for building deep learning applications. 
@@ -30,7 +30,8 @@ Codes:
 * Week1: [Initialization, Regularization & Gradient Check](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Improving%20Deep%20Neural%20Networks/week1)
 * Week2: [Optimization Algorithms](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Improving%20Deep%20Neural%20Networks/week2)
 * Week3: [Hyperparameter tuning, Batch Normalization & Tensorflow Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Improving%20Deep%20Neural%20Networks/week3)
-  * Mathematical demonstration: [Batch Normalization Gradient](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks/batch_norm_backprop.PDF)
+  * Mathematical demostration: [Batch Normalization Gradient](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/blob/master/Improving%20Deep%20Neural%20Networks/batch_norm_backprop.PDF)
+  * Paper: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
 
 ## Course 3. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) 
 - Understand how to diagnose errors in a machine learning system, and 
@@ -49,7 +50,7 @@ Codes:
 * Week2: 
   * [Keras CNN Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week2/Keras%20tutorial)
   * [ResNet Keras Implementation](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week2/ResNet)
-  * [Paper: Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+  * Paper: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 * Week3: 
   * [YOLO Implementation(You Only Look Once)](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Convolutional%20Neural%20Networks/week3)
   * Paper: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
@@ -69,8 +70,8 @@ Codes:
 Codes:
 * Week1: 
   * [RNN & LSTM Implementation in Numpy (Including backpropagation)](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week1/Building%20a%20RNN)
-    * Mathematical demonstration: [RNN gradient through time](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Models/rnn_through_time_backprop.PDF)
-    * Mathematical demonstration: [LSTM gradient through time](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Models/lstm_through_time_backprop.PDF)
+    * Mathematical demostration: [RNN gradient through time](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Models/rnn_through_time_backprop.PDF)
+    * Mathematical demostration: [LSTM gradient through time](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Models/lstm_through_time_backprop.PDF)
   * [Character-Level Language Modeling](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week1/Character-level%20language%20model)
   * [Sequence Sampling Generation LSTM](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week1/LSTM%20Network)
 * Week2: 
