@@ -73,7 +73,7 @@ Codes:
   * [RNN & LSTM Implementation in Numpy (Including backpropagation)](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week1/Building%20a%20RNN)
     * Mathematical demostration: [RNN gradient through time](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Models/rnn_through_time_backprop.PDF)
     * Mathematical demostration: [LSTM gradient through time](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/blob/master/Sequence%20Models/lstm_through_time_backprop.PDF)
-    * Paper: [Vanishing/Exploding gradient & Clipping] (http://proceedings.mlr.press/v28/pascanu13.pdf)
+    * Paper: [Vanishing/Exploding gradient & Clipping](http://proceedings.mlr.press/v28/pascanu13.pdf)
   * [Character-Level Language Modeling](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week1/Character-level%20language%20model)
   * [Sequence Sampling Generation LSTM](https://github.com/AdalbertoCq/Deep-Learning-Specialization-Coursera/tree/master/Sequence%20Models/week1/LSTM%20Network)
 * Week2: 
