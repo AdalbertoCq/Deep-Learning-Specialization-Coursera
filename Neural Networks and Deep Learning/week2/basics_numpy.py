@@ -135,7 +135,7 @@ def L2(yhat, y):
         """
 
         ### START CODE HERE ### (≈ 1 line of code)
-        loss = np.sum(np.multiply(y - yhat), y - yhat, axis=0, keepdims=True)
+        loss = np.sum(np.multiply(y - yhat, y - yhat), axis=0, keepdims=True)
         ### END CODE HERE ###
 
         return loss
