@@ -99,7 +99,7 @@ def conv_forward(A_prev, W, b, hparameters):
     A_prev_pad = zero_pad(A_prev, pad)
 
     for i in range(m):  # loop over the batch of training examples
-        a_prev_pad = A_prev[i]  # Select ith training example's padded activation
+        a_prev_pad = A_prev_pad[i]  # Select ith training example's padded activation
         for h in range(n_H):  # loop over vertical axis of the output volume
             for w in range(n_W):  # loop over horizontal axis of the output volume
                 for c in range(n_C):  # loop over channels (= #filters) of the output volume
